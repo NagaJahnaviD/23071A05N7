@@ -1,9 +1,14 @@
 {
-    "users": [
-      {
-        "username": "admin",
-        "password": "12345",
-        "id": "c0df"
-      }
-    ]
-  }
+  "users": [
+    {
+      "username": "admin",
+      "password": "12345",
+      "id": "c0df"
+    },
+    {
+      "id": "6a19",
+      "username": "jahnavi",
+      "password": "1234"
+    }
+  ]
+}
