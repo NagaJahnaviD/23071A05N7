@@ -54,7 +54,7 @@ function Signup() {
           <label htmlFor="cpassword" className="form-label">
             confirm password
           </label>
-          <input type="cpassword" className="form-control" />
+          <input type="password" className="form-control" />
         </div>
         <button className="btn btn-danger" type="submit">
           submit
